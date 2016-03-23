@@ -1,1 +1,3 @@
-starting test for QADEV06
+QADEV06 rocks!
+
+test
